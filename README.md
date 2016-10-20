@@ -1,2 +1,2 @@
-# HW_SQA
-For SQA (INSFCI_2545) 
+# HW_S_Q_A
+
